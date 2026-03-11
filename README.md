@@ -1,5 +1,4 @@
-### 1. Title
-Single-Cell Multiomics Gene Regulatory Landscape of Testicular Aging
+### Single-Cell Multiomics Gene Regulatory Landscape of Testicular Aging
 
 ### 2. Authors & Correspondence
 #### Co-First Authors
@@ -37,7 +36,7 @@ Lin N, Zhang Z, Sha X, Yao J, Sun X, et al. Single-Cell Multiomics Gene Regulato
 | Single-Cell Analysis      | scanpy, anndata                    | Single-cell data structure management and analysis |
 
 ### 6. R/Python Scripts (Updating)
-- [x] import_spatial_scRNA_preproced_data
+- [x] import_scATAC_scRNA_preproced_data
 - [ ] cell_clustering_annotation 
 - [ ] differential_expression_analysis
 - [ ] differential_accessibility_analysis
