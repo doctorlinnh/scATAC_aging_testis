@@ -1,6 +1,6 @@
 ### Single-Cell Multiomics Gene Regulatory Landscape of Testicular Aging
 
-### 2. Authors & Correspondence
+### Authors & Correspondence
 #### Co-First Authors
 Nanhe Lin, Zhiqiang Zhang, Xianshen Sha, Jiahui Yao (These authors contributed equally)
 
