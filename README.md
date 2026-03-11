@@ -10,13 +10,13 @@ Nanhe Lin, Zhiqiang Zhang, Xianshen Sha, Jiahui Yao (These authors contributed e
 - Bin Ouyang: Center for Reproductive Medicine, Guangdong Women and Children Hospital | Email: oyb99ol@163.com
 - Yun Xie (Lead contact): Department of Urology and Andrology, The First Affiliated Hospital, Sun Yat-sen University | Email: xiey236@mail.sysu.edu.cn
 
-### 3. Citation
+### Citation
 If you use the code, data, or findings from this study in your research, please cite the original paper:
 ```
 Lin N, Zhang Z, Sha X, Yao J, Sun X, et al. Single-Cell Multiomics Gene Regulatory Landscape Reveals Impaired Spermatogonial Stem Cells Stemness and Macrophage-Driven Inflammaging During Testicular Aging. [Journal, Year, DOI].
 ```
 
-### 4. Key R Packages
+### Key R Packages
 | Package Category          | Package Name and Version           | Core Application                          |
 |---------------------------|------------------------------------|-------------------------------------------|
 | Core Single-Cell Analysis | Seurat (v5.0.1), Signac (v1.13.0)  | Basic analysis of scRNA-seq/scATAC-seq    |
@@ -27,7 +27,7 @@ Lin N, Zhang Z, Sha X, Yao J, Sun X, et al. Single-Cell Multiomics Gene Regulato
 | Species Annotation        | org.Mm.eg.db                       | Mouse gene annotation                     |
 | Visualization             | ggplot2, ComplexHeatmap, circlize, ggspatial | Plotting (UMAP/Heatmap/Spatial plots)    |
 
-### 5. Key Python Packages
+### Key Python Packages
 | Package Category          | Package Name and Version           | Core Application                          |
 |---------------------------|------------------------------------|-------------------------------------------|
 | Regulatory Network Analysis | pySCENIC (v0.11.0), Celloracle (v0.10.12) | Regulon inference, in silico TF perturbation analysis |
@@ -35,7 +35,7 @@ Lin N, Zhang Z, Sha X, Yao J, Sun X, et al. Single-Cell Multiomics Gene Regulato
 | Visualization             | matplotlib, seaborn                | Statistical plot generation               |
 | Single-Cell Analysis      | scanpy, anndata                    | Single-cell data structure management and analysis |
 
-### 6. R/Python Scripts (Updating)
+### R/Python Scripts (Updating)
 - [x] import_scATAC_scRNA_preproced_data
 - [ ] cell_clustering_annotation 
 - [ ] differential_expression_analysis
@@ -48,7 +48,7 @@ Lin N, Zhang Z, Sha X, Yao J, Sun X, et al. Single-Cell Multiomics Gene Regulato
 - [ ] spatial_transcriptomics_analysis
 - [ ] core_visualization_plots
 
-### 7. License
+### License
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
 - Permissions: Academic use, modification, and distribution (with proper attribution).
 - Restrictions: Commercial use is prohibited without written permission from the corresponding authors.
